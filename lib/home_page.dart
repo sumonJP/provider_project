@@ -10,7 +10,8 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: Text('Provider টিউটোরিয়াল'),
+        title: Text('Provider App'),
+        centertitle:true,
       ),
       body: Center(
         child: Column(
